@@ -1,0 +1,617 @@
+Name,Type,Category,Power,Accuracy,PP,Generation
+Absorb,Planta,Especial,20,100,25,1
+Ácido,Veneno,Especial,40,100,30,1
+Ascuas,Fuego,Especial,40,100,25,1
+Pistola Agua,Agua,Especial,40,100,25,1
+Látigo Cepa,Planta,Especial,40,100,25,1
+Impactrueno,Eléctrico,Especial,40,100,30,1
+Arañazo,Normal,Físico,40,100,35,1
+Placaje,Normal,Físico,40,100,35,1
+Ataque Rápido,Normal,Físico,40,100,30,1
+Gruñido,Normal,Estado,0,100,40,1
+Látigo,Normal,Estado,0,100,30,1
+Burbuja,Agua,Especial,40,100,30,1
+Malicioso,Normal,Estado,0,100,30,1
+Beso Drenaje,Hada,Especial,50,100,10,6
+Mordisco,Siniestro,Físico,60,100,25,1
+Patada Baja,Lucha,Físico,0,100,20,1
+Puño Cometa,Normal,Físico,18,85,15,1
+Doble Patada,Lucha,Físico,30,100,30,1
+Poder Pasado,Roca,Especial,60,100,5,3
+Concha Filo,Agua,Físico,75,95,10,5
+Tajo Aéreo,Volador,Especial,75,95,20,4
+Aura Esfera,Lucha,Especial,80,0,20,4
+Lanza Mugre,Veneno,Físico,120,80,5,4
+Garra Dragón,Dragón,Físico,80,100,15,3
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Cabezazo Zen,Psíquico,Físico,80,90,15,4
+Puño Hielo,Hielo,Físico,75,100,15,1
+Puño Fuego,Fuego,Físico,75,100,15,1
+Puño Trueno,Eléctrico,Físico,75,100,15,1
+Roca Afilada,Roca,Físico,100,80,5,4
+Trampa Rocas,Roca,Estado,0,0,20,4
+Fuerza G,Tierra,Físico,90,100,10,4
+A Bocajarro,Lucha,Físico,120,100,5,4
+Voltio Cruel,Eléctrico,Físico,90,100,15,4
+Ida y Vuelta,Bicho,Físico,70,100,20,4
+Vuelo,Volador,Físico,90,95,15,1
+Excavar,Tierra,Físico,80,100,10,1
+Día Soleado,Fuego,Estado,0,0,5,2
+Danza Lluvia,Agua,Estado,0,0,5,2
+Granizo,Hielo,Estado,0,0,10,3
+Tormenta Arena,Roca,Estado,0,0,10,2
+Protección,Normal,Estado,0,0,10,2
+Detección,Lucha,Estado,0,0,5,2
+Pulso Cura,Psíquico,Estado,0,0,10,5
+Tóxico,Veneno,Estado,0,90,10,1
+Drenadoras,Planta,Estado,0,90,10,1
+Día de Pago,Normal,Físico,40,100,20,1
+Come Sueños,Psíquico,Especial,100,100,15,1
+Doble Filo,Normal,Físico,120,100,15,1
+Hiperrayo,Normal,Especial,150,90,5,1
+Giga Impacto,Normal,Físico,150,90,5,4
+Onda Certera,Lucha,Especial,120,70,5,4
+Ventisca,Hielo,Especial,110,70,5,1
+Trueno,Eléctrico,Especial,110,70,10,1
+Llamarada,Fuego,Especial,110,85,5,1
+Púas,Tierra,Estado,0,0,20,2
+Púas Tóxicas,Veneno,Estado,0,0,20,4
+Trampa Venenosa,Veneno,Estado,0,0,20,5
+Niebla,Hielo,Estado,0,0,30,1
+Reflejo,Psíquico,Estado,0,0,20,1
+Pantalla Luz,Psíquico,Estado,0,0,30,1
+Cola Dragón,Dragón,Físico,60,90,10,5
+Vozarrón,Normal,Especial,90,100,10,3
+Esfera Aural,Lucha,Especial,80,0,20,4
+Cambio Banda,Psíquico,Estado,0,0,10,5
+Vasta Fuerza,Psíquico,Especial,20,100,10,5
+Viento Feérico,Hada,Especial,40,100,30,6
+Fuerza Lunar,Hada,Especial,95,100,15,6
+Voz Cautivadora,Hada,Especial,40,0,15,6
+Llama Azul,Fuego,Especial,130,90,5,5
+Rayo Gélido,Hielo,Especial,130,90,5,5
+Rayo Fusión,Eléctrico,Especial,100,100,5,5
+Golpe Bajo,Siniestro,Físico,70,100,5,4
+Carga Tóxica,Veneno,Especial,65,100,10,5
+Demolición,Lucha,Físico,75,100,15,3
+Puño Sombra,Fantasma,Físico,60,0,20,3
+Garra Umbría,Fantasma,Físico,70,100,15,4
+Puño Bala,Acero,Físico,40,100,30,4
+Meteorobola,Normal,Especial,50,100,10,3
+Velocidad Extrema,Normal,Físico,80,100,5,2
+Danza Dragón,Dragón,Estado,0,0,20,3
+Púas,Tierra,Estado,0,0,20,2
+Desarme,Siniestro,Físico,65,100,20,3
+Paz Mental,Psíquico,Estado,0,0,20,3
+Danza Espada,Normal,Estado,0,0,20,1
+Respiro,Volador,Estado,0,0,10,4
+Ala de Acero,Acero,Físico,70,90,25,2
+Triturar,Siniestro,Físico,80,100,15,2
+Pulso Umbrío,Siniestro,Especial,80,100,15,4
+Cola Férrea,Acero,Físico,100,75,15,2
+Terremoto,Tierra,Físico,100,100,10,1
+Giro Bola,Acero,Físico,0,100,5,4
+Cambio de Marcha,Acero,Estado,0,0,10,5
+Voltio Cambio,Eléctrico,Especial,70,100,20,5
+Golpe Roca,Lucha,Físico,40,100,15,2
+Fuerza,Normal,Físico,80,100,15,1
+Casacada,Agua,Físico,80,100,15,1
+Treparrocas,Normal,Físico,90,95,20,4
+Vuelo,Volador,Físico,90,95,15,1
+Surf,Agua,Especial,90,100,15,1
+Danza Aleteo,Bicho,Estado,0,0,20,4
+Resplandor,Fuego,Especial,95,100,10,1
+Rayo,Eléctrico,Especial,90,100,15,1
+Rayo Hielo,Hielo,Especial,90,100,10,1
+Psíquico,Psíquico,Especial,90,100,10,1
+Bola Sombra,Fantasma,Especial,80,100,15,2
+Energibola,Planta,Especial,90,100,10,4
+Foco Resplandor,Acero,Especial,80,100,10,4
+Poder Oculto,Normal,Especial,60,100,15,2
+Eco Voz,Normal,Especial,40,100,15,5
+Calcinación,Fuego,Especial,60,100,15,5
+Furia Dragón,Dragón,Especial,0,100,10,1
+Aliento de Dragón,Dragón,Especial,60,100,20,2
+Tormenta de Arena,Roca,Estado,0,0,10,2
+Danza Lluvia,Agua,Estado,0,0,5,2
+Día Soleado,Fuego,Estado,0,0,5,2
+Granizo,Hielo,Estado,0,0,10,3
+Antiaéreo,Volador,Físico,50,100,15,5
+Vendaval,Volador,Especial,110,70,10,6
+Viento Afín,Volador,Estado,0,0,15,4
+Danza Pluma,Volador,Estado,0,100,15,3
+Respiro,Volador,Estado,0,0,10,4
+Pico Taladro,Volador,Físico,80,100,20,1
+Bomba Germen,Planta,Físico,80,100,10,4
+Enfado,Dragón,Físico,120,100,10,2
+Cometa Draco,Dragón,Especial,130,90,5,4
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Carga Dragón,Dragón,Físico,100,100,10,4
+Fuerza Bruta,Lucha,Físico,120,100,5,4
+Patada Salto Alta,Lucha,Físico,130,90,10,1
+Danza Espada,Normal,Estado,0,0,20,1
+Contoneo,Normal,Estado,0,90,15,2
+Rencor,Fantasma,Estado,0,100,10,2
+Divide Dolor,Normal,Estado,0,0,20,2
+Danza Llama,Fuego,Especial,80,100,10,5
+Ataque Arena,Tierra,Estado,0,100,15,1
+Disp. Lodo,Tierra,Especial,55,95,15,3
+Bomba Lodo,Veneno,Especial,90,100,10,4
+Residuos,Veneno,Especial,65,100,20,1
+Onda Tóxica,Veneno,Especial,95,100,10,5
+Puya Nociva,Veneno,Físico,80,100,20,4
+Venenochoque,Veneno,Especial,65,100,10,5
+Tóxico,Veneno,Estado,0,90,10,1
+Bomba Huevo,Normal,Físico,100,75,10,1
+Golpe Cuerpo,Normal,Físico,85,100,15,1
+Return,Normal,Físico,0,100,20,2
+Frustración,Normal,Físico,0,100,20,2
+Giga Drenado,Planta,Especial,75,100,10,1
+Megaagotar,Planta,Especial,40,100,15,1
+Energibola,Planta,Especial,90,100,10,4
+Lluevehojas,Planta,Especial,130,90,5,4
+Rayo Solar,Planta,Especial,120,100,10,1
+Bucle Arena,Tierra,Físico,35,85,15,1
+Ataque Ala,Volador,Físico,60,100,35,1
+Remolino,Normal,Estado,0,0,20,1
+Rugido,Normal,Estado,0,0,20,1
+Fuerza Sobrenatural,Psíquico,Especial,80,100,10,4
+Psicocarga,Psíquico,Especial,80,100,10,5
+Psico-corte,Psíquico,Físico,70,100,20,4
+Psicorrayo,Psíquico,Especial,65,100,20,1
+Confusión,Psíquico,Especial,50,100,25,1
+Hipnosis,Psíquico,Estado,0,60,20,1
+Descanso,Psíquico,Estado,0,0,10,1
+Premonición,Psíquico,Especial,120,100,10,2
+Poder Cósmico,Psíquico,Estado,0,0,20,3
+Espacio Raro,Psíquico,Estado,0,0,5,4
+Zona Mágica,Psíquico,Estado,0,0,10,5
+Zona Extraña,Psíquico,Estado,0,0,10,5
+Poder Mental,Psíquico,Especial,70,100,10,5
+Meteoro Bola,Normal,Especial,50,100,10,3
+Clavo Cañón,Bicho,Físico,25,100,30,1
+Tijera X,Bicho,Físico,80,100,15,4
+Danza Aleteo,Bicho,Estado,0,0,20,4
+Picadura,Bicho,Físico,60,100,20,5
+Doble Rayo,Bicho,Especial,50,100,10,5
+Zumbido,Bicho,Especial,90,100,10,4
+Picotazo,Volador,Físico,35,100,35,1
+Ataque Ala,Volador,Físico,60,100,35,1
+Bote,Volador,Físico,85,85,5,3
+Respiro,Volador,Estado,0,0,10,4
+Pájaro Osado,Volador,Físico,120,100,15,4
+Acrobático,Volador,Físico,55,100,15,5
+Vendaval,Volador,Especial,110,70,10,6
+Ala de Acero,Acero,Físico,70,90,25,2
+Foco Resplandor,Acero,Especial,80,100,10,4
+Cola Férrea,Acero,Físico,100,75,15,2
+Puño Bala,Acero,Físico,40,100,30,4
+Giro Bola,Acero,Físico,0,100,5,4
+Púas,Tierra,Estado,0,0,20,2
+Terremoto,Tierra,Físico,100,100,10,1
+Bucle Arena,Tierra,Físico,35,85,15,1
+Fuerza G,Tierra,Físico,90,100,10,4
+Tumba Rocas,Roca,Físico,60,95,15,3
+Roca Afilada,Roca,Físico,100,80,5,4
+Trampa Rocas,Roca,Estado,0,0,20,4
+Avalancha,Roca,Físico,75,90,10,1
+Pulso Noche,Siniestro,Especial,80,100,15,4
+Juego Sucio,Siniestro,Físico,95,100,15,5
+Lanzamiento,Siniestro,Físico,0,100,10,4
+Golpe Bajo,Siniestro,Físico,70,100,5,4
+Desarme,Siniestro,Físico,65,100,20,3
+Contoneo,Normal,Estado,0,90,15,2
+Doble Filo,Normal,Físico,120,100,15,1
+Explosión,Normal,Físico,250,100,5,1
+Autodestrucción,Normal,Físico,200,100,5,1
+Giga Impacto,Normal,Físico,150,90,5,4
+Hiperrayo,Normal,Especial,150,90,5,1
+Placaje,Normal,Físico,40,100,35,1
+Arañazo,Normal,Físico,40,100,35,1
+Retribución,Normal,Físico,0,100,20,2
+Frustración,Normal,Físico,0,100,20,2
+Imagen,Normal,Físico,70,100,20,3
+Sustituto,Normal,Estado,0,0,10,1
+Danza Espada,Normal,Estado,0,0,20,1
+Maquinación,Siniestro,Estado,0,0,20,4
+Aura Esfera,Lucha,Especial,80,0,20,4
+Carga Tóxica,Veneno,Especial,65,100,10,5
+Demolición,Lucha,Físico,75,100,15,3
+Puño Sombra,Fantasma,Físico,60,0,20,3
+Garra Umbría,Fantasma,Físico,70,100,15,4
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Viento Feérico,Hada,Especial,40,100,30,6
+Fuerza Lunar,Hada,Especial,95,100,15,6
+Voz Cautivadora,Hada,Especial,40,0,15,6
+Brillo Mágico,Hada,Especial,80,100,10,6
+Llama Azul,Fuego,Especial,130,90,5,5
+Rayo Gélido,Hielo,Especial,130,90,5,5
+Rayo Fusión,Eléctrico,Especial,100,100,5,5
+Ataque Óseo,Tierra,Físico,25,80,10,1
+Hueso Palo,Tierra,Físico,65,95,10,1
+Danza Llama,Fuego,Especial,80,100,10,5
+Onda Ígnea,Fuego,Especial,95,90,10,3
+Patada Ígnea,Fuego,Físico,85,90,10,5
+Resplandor,Fuego,Especial,95,100,10,1
+Sofoco,Fuego,Especial,130,90,5,3
+Llamarada,Fuego,Especial,110,85,5,1
+Rayo,Eléctrico,Especial,90,100,15,1
+Electrotela,Eléctrico,Especial,55,95,15,5
+Trueno,Eléctrico,Especial,110,70,10,1
+Voltio Cambio,Eléctrico,Especial,70,100,20,5
+Voltio Cruel,Eléctrico,Físico,90,100,15,4
+Puño Trueno,Eléctrico,Físico,75,100,15,1
+Rayo Hielo,Hielo,Especial,90,100,10,1
+Ventisca,Hielo,Especial,110,70,5,1
+Canto Helado,Hielo,Especial,65,95,10,5
+Rayo Aurora,Hielo,Especial,65,100,20,1
+Cascada,Agua,Físico,80,100,15,1
+Escaldar,Agua,Especial,80,100,15,5
+Hidrobomba,Agua,Especial,110,80,5,1
+Surf,Agua,Especial,90,100,15,1
+Bomba Agua,Agua,Especial,110,80,5,1
+Cola Dragón,Dragón,Físico,60,90,10,5
+Cometa Draco,Dragón,Especial,130,90,5,4
+Enfado,Dragón,Físico,120,100,10,2
+Garra Dragón,Dragón,Físico,80,100,15,3
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Danza Dragón,Dragón,Estado,0,0,20,3
+Carga Dragón,Dragón,Físico,100,100,10,4
+Corte Furia,Bicho,Físico,40,95,20,2
+Picadura,Bicho,Físico,60,100,20,5
+Tijera X,Bicho,Físico,80,100,15,4
+Zumbido,Bicho,Especial,90,100,10,4
+Danza Aleteo,Bicho,Estado,0,0,20,4
+Tóxico,Veneno,Estado,0,90,10,1
+Bomba Lodo,Veneno,Especial,90,100,10,4
+Lanza Mugre,Veneno,Físico,120,80,5,4
+Puya Nociva,Veneno,Físico,80,100,20,4
+Púas Tóxicas,Veneno,Estado,0,0,20,4
+Venenochoque,Veneno,Especial,65,100,10,5
+Explosión,Normal,Físico,250,100,5,1
+Autodestrucción,Normal,Físico,200,100,5,1
+Amago,Normal,Físico,30,100,10,4
+Última Baza,Normal,Físico,140,100,5,4
+Retroceso,Normal,Físico,70,100,20,3
+Represalia,Normal,Físico,50,100,10,5
+Doble Filo,Normal,Físico,120,100,15,1
+Cabeza de Hierro,Acero,Físico,80,100,15,4
+Fuerza Bruta,Lucha,Físico,120,100,5,4
+Onda Certera,Lucha,Especial,120,70,5,4
+A Bocajarro,Lucha,Físico,120,100,5,4
+Patada Salto Alta,Lucha,Físico,130,90,10,1
+Golpe Karate,Lucha,Físico,50,100,25,1
+Demolición,Lucha,Físico,75,100,15,3
+Puño Drenaje,Lucha,Físico,75,100,10,4
+Espada Santa,Lucha,Físico,90,100,20,5
+Viento Plata,Bicho,Especial,60,100,5,3
+Poder Oculto,Normal,Especial,60,100,15,2
+Adaptación,Normal,Estado,0,0,10,5
+Día Soleado,Fuego,Estado,0,0,5,2
+Danza Lluvia,Agua,Estado,0,0,5,2
+Granizo,Hielo,Estado,0,0,10,3
+Tormenta Arena,Roca,Estado,0,0,10,2
+Espacio Raro,Psíquico,Estado,0,0,5,4
+Zona Mágica,Psíquico,Estado,0,0,10,5
+Zona Extraña,Psíquico,Estado,0,0,10,5
+Púas,Tierra,Estado,0,0,20,2
+Trampa Rocas,Roca,Estado,0,0,20,4
+Púas Tóxicas,Veneno,Estado,0,0,20,4
+Pantalla de Humo,Normal,Estado,0,100,20,1
+Polvo Veneno,Planta,Estado,0,75,35,1
+Paralizador,Planta,Estado,0,75,20,1
+Somnífero,Planta,Estado,0,75,15,1
+Espora,Planta,Estado,0,100,15,1
+Esquema,Normal,Estado,0,0,20,2
+Pulso Cura,Psíquico,Estado,0,0,10,5
+Vozarrón,Normal,Especial,90,100,10,3
+Ladrón,Siniestro,Físico,60,100,25,2
+Puño Fuego,Fuego,Físico,75,100,15,1
+Puño Hielo,Hielo,Físico,75,100,15,1
+Puño Trueno,Eléctrico,Físico,75,100,15,1
+Cabeza de Hierro,Acero,Físico,80,100,15,4
+Cascada,Agua,Físico,80,100,15,1
+Excavar,Tierra,Físico,80,100,10,1
+Vuelo,Volador,Físico,90,95,15,1
+Fuerza,Normal,Físico,80,100,15,1
+Golpe Roca,Lucha,Físico,40,100,15,2
+Treparrocas,Normal,Físico,90,95,20,4
+Buceo,Agua,Físico,80,100,10,3
+Vara Férrea,Acero,Físico,130,90,5,4
+Explosión,Normal,Físico,250,100,5,1
+Autodestrucción,Normal,Físico,200,100,5,1
+Fuerza Equina,Tierra,Físico,95,100,10,8
+Vasto Impacto,Normal,Físico,80,100,10,8
+Fuerza Bruta,Lucha,Físico,120,100,5,4
+Voltio Cruel,Eléctrico,Físico,90,100,15,4
+Hoja Aguda,Planta,Físico,90,100,15,5
+Chupavidas,Bicho,Físico,80,100,10,7
+Puño Drenaje,Lucha,Físico,75,100,10,4
+Semilladora,Planta,Físico,25,100,30,4
+Lanza Mugre,Veneno,Físico,120,80,5,4
+Carga Tóxica,Veneno,Especial,65,100,10,5
+Puya Nociva,Veneno,Físico,80,100,20,4
+Cola Dragón,Dragón,Físico,60,90,10,5
+Garra Dragón,Dragón,Físico,80,100,15,3
+Garra Umbría,Fantasma,Físico,70,100,15,4
+Triturar,Siniestro,Físico,80,100,15,2
+Golpe Bajo,Siniestro,Físico,70,100,5,4
+Avalancha,Roca,Físico,75,90,10,1
+Roca Afilada,Roca,Físico,100,80,5,4
+Tumba Rocas,Roca,Físico,60,95,15,3
+Ala de Acero,Acero,Físico,70,90,25,2
+Giro Bola,Acero,Físico,0,100,5,4
+Plancha Corporal,Lucha,Físico,80,100,10,8
+Planta Férrea,Planta,Físico,80,100,10,8
+Rayo Meteoro,Roca,Especial,120,90,10,8
+Psicocolmillo,Psíquico,Físico,85,100,10,7
+Chispazo,Eléctrico,Especial,75,100,15,4
+Quemadura,Fuego,Especial,80,100,10,4
+Congelación,Hielo,Especial,75,100,10,4
+Vozarrón,Normal,Especial,90,100,10,3
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Pulso Umbrío,Siniestro,Especial,80,100,15,4
+Pulso Cura,Psíquico,Estado,0,0,10,5
+Pulso Primigenio,Agua,Especial,110,85,10,6
+Ascenso Draco,Dragón,Físico,120,100,5,6
+Voto Planta,Planta,Especial,80,100,10,5
+Voto Fuego,Fuego,Especial,80,100,10,5
+Voto Agua,Agua,Especial,80,100,10,5
+Doble Rayo,Bicho,Especial,50,100,10,5
+Onda Gélida,Hielo,Especial,65,95,20,5
+Viento Helado,Hielo,Especial,55,95,15,2
+Boca Abajo,Normal,Estado,0,0,5,5
+Cara Susto,Normal,Estado,0,100,10,2
+Sorpresa,Normal,Físico,40,100,10,3
+Vendetta,Siniestro,Físico,60,100,10,4
+Paliza,Siniestro,Físico,0,100,10,2
+Alarido,Siniestro,Especial,55,95,15,5
+Juego Sucio,Siniestro,Físico,95,100,15,5
+Lanzamiento,Siniestro,Físico,0,100,10,4
+Desarme,Siniestro,Físico,65,100,20,3
+Maldición,Fantasma,Estado,0,0,10,2
+Anulación,Normal,Estado,0,100,10,1
+Canto,Normal,Estado,0,55,15,1
+Contoneo,Normal,Estado,0,90,15,2
+Pantalla Humo,Normal,Estado,0,100,20,1
+Reserva,Normal,Estado,0,0,20,3
+Almacenar,Normal,Especial,0,100,10,5
+Liberación,Normal,Especial,0,100,10,5
+Puño Incremento,Lucha,Físico,40,100,20,6
+Planta Férrea,Planta,Físico,80,100,10,8
+Vasto Impacto,Normal,Físico,80,100,10,8
+Esquirla Helada,Hielo,Físico,40,100,30,4
+Acua Jet,Agua,Físico,40,100,20,4
+Cuchillada,Normal,Físico,70,100,20,1
+Golpe Roca,Lucha,Físico,40,100,15,2
+Fuerza,Normal,Físico,80,100,15,1
+Cascada,Agua,Físico,80,100,15,1
+Excavar,Tierra,Físico,80,100,10,1
+Vuelo,Volador,Físico,90,95,15,1
+Treparrocas,Normal,Físico,90,95,20,4
+Salmuera,Agua,Especial,65,100,10,3
+Rebote,Normal,Físico,85,85,5,4
+Danza Dragón,Dragón,Estado,0,0,20,3
+Paz Mental,Psíquico,Estado,0,0,20,3
+Danza Espada,Normal,Estado,0,0,20,1
+Maquinación,Siniestro,Estado,0,0,20,4
+Agilidad,Psíquico,Estado,0,0,30,1
+Armadura Ácida,Veneno,Estado,0,0,20,1
+Rizo Defensa,Normal,Estado,0,0,40,1
+Barrera,Psíquico,Estado,0,0,20,1
+Reflejo,Psíquico,Estado,0,0,20,1
+Pantalla Luz,Psíquico,Estado,0,0,30,1
+Sustituto,Normal,Estado,0,0,10,1
+Recuperación,Normal,Estado,0,0,10,1
+Respiro,Volador,Estado,0,0,10,4
+Ataque Arena,Tierra,Estado,0,100,15,1
+Día de Pago,Normal,Físico,40,100,20,1
+Come Sueños,Psíquico,Especial,100,100,15,1
+Hipnosis,Psíquico,Estado,0,60,20,1
+Somnífero,Planta,Estado,0,75,15,1
+Bostezo,Normal,Estado,0,0,10,3
+Anulación,Normal,Estado,0,100,10,1
+Contoneo,Normal,Estado,0,90,15,2
+Encanto,Hada,Estado,0,100,20,2
+Mofa,Siniestro,Estado,0,100,20,3
+Puño Drenaje,Lucha,Físico,75,100,10,4
+Gigadrenado,Planta,Especial,75,100,10,1
+Megadrenado,Planta,Especial,40,100,15,1
+Beso Drenaje,Hada,Especial,50,100,10,6
+Chupavidas,Bicho,Físico,80,100,10,7
+Robo,Siniestro,Estado,0,0,10,2
+Tóxico,Veneno,Estado,0,90,10,1
+Rayo Solar,Planta,Especial,120,100,10,1
+Lluevehojas,Planta,Especial,130,90,5,4
+Sofoco,Fuego,Especial,130,90,5,3
+Cometa Draco,Dragón,Especial,130,90,5,4
+Dragoaliento,Dragón,Especial,60,100,20,2
+Ciclón,Normal,Estado,0,0,20,1
+Remolino,Normal,Estado,0,0,20,1
+Rugido,Normal,Estado,0,0,20,1
+Cola Dragón,Dragón,Físico,60,90,10,5
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Pulso Umbrío,Siniestro,Especial,80,100,15,4
+Pulso Agua,Agua,Especial,60,100,20,3
+Pulso Cura,Psíquico,Estado,0,0,10,5
+Viento Plata,Bicho,Especial,60,100,5,3
+Resplandor,Fuego,Especial,95,100,10,1
+Rayo,Eléctrico,Especial,90,100,15,1
+Rayo Hielo,Hielo,Especial,90,100,10,1
+Psíquico,Psíquico,Especial,90,100,10,1
+Bola Sombra,Fantasma,Especial,80,100,15,2
+Energibola,Planta,Especial,90,100,10,4
+Foco Resplandor,Acero,Especial,80,100,10,4
+Poder Oculto,Normal,Especial,60,100,15,2
+Eco Voz,Normal,Especial,40,100,15,5
+Calcinación,Fuego,Especial,60,100,15,5
+Voz Cautivadora,Hada,Especial,40,0,15,6
+Brillo Mágico,Hada,Especial,80,100,10,6
+Fuerza Lunar,Hada,Especial,95,100,15,6
+Vendaval,Volador,Especial,110,70,10,6
+Rayo Fusión,Eléctrico,Especial,100,100,5,5
+Rayo Gélido,Hielo,Especial,130,90,5,5
+Llama Azul,Fuego,Especial,130,90,5,5
+Bomba Ígnea,Fuego,Especial,100,100,5,8
+Vasto Impacto,Normal,Físico,80,100,10,8
+Fuerza Equina,Tierra,Físico,95,100,10,8
+Planta Férrea,Planta,Físico,80,100,10,8
+Rayo Meteoro,Roca,Especial,120,90,10,8
+Doble Patada,Lucha,Físico,30,100,30,1
+Doble Golpe,Normal,Físico,35,90,10,5
+Golpe Triple,Lucha,Físico,0,100,10,8
+Triple Patada,Lucha,Físico,10,90,10,2
+Plancha Corporal,Lucha,Físico,80,100,10,8
+Estrujón,Normal,Especial,0,100,5,3
+Ciclón,Normal,Estado,0,0,20,1
+Lanzamiento,Siniestro,Físico,0,100,10,4
+Robo,Siniestro,Estado,0,0,10,2
+Cambio Banda,Psíquico,Estado,0,0,10,5
+Vasta Fuerza,Psíquico,Especial,20,100,10,5
+Intercambio,Psíquico,Estado,0,0,10,3
+Patada Baja,Lucha,Físico,0,100,20,1
+Giro Bola,Acero,Físico,0,100,5,4
+Fuerza Lunar,Hada,Especial,95,100,15,6
+Brillo Mágico,Hada,Especial,80,100,10,6
+Voz Cautivadora,Hada,Especial,40,0,15,6
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Vendaval,Volador,Especial,110,70,10,6
+Rayo Hielo,Hielo,Especial,90,100,10,1
+Psíquico,Psíquico,Especial,90,100,10,1
+Bomba Lodo,Veneno,Especial,90,100,10,4
+Lanza Mugre,Veneno,Físico,120,80,5,4
+Aura Esfera,Lucha,Especial,80,0,20,4
+Onda Certera,Lucha,Especial,120,70,5,4
+Fuerza Bruta,Lucha,Físico,120,100,5,4
+Voltio Cruel,Eléctrico,Físico,90,100,15,4
+Ida y Vuelta,Bicho,Físico,70,100,20,4
+Fuerza G,Tierra,Físico,90,100,10,4
+Cola Férrea,Acero,Físico,100,75,15,2
+Puño Fuego,Fuego,Físico,75,100,15,1
+Puño Hielo,Hielo,Físico,75,100,15,1
+Puño Trueno,Eléctrico,Físico,75,100,15,1
+Poder Oculto,Normal,Especial,60,100,15,2
+Desarme,Siniestro,Físico,65,100,20,3
+Juego Sucio,Siniestro,Físico,95,100,15,5
+Golpe Bajo,Siniestro,Físico,70,100,5,4
+Garra Umbría,Fantasma,Físico,70,100,15,4
+Bola Sombra,Fantasma,Especial,80,100,15,2
+Bostezo,Normal,Estado,0,0,10,3
+Maldición,Fantasma,Estado,0,0,10,2
+Mofa,Siniestro,Estado,0,100,20,3
+Contoneo,Normal,Estado,0,90,15,2
+Onda Trueno,Eléctrico,Estado,0,90,20,1
+Rayo Confuso,Fantasma,Estado,0,100,10,1
+Supersónico,Normal,Estado,0,55,20,1
+Paz Mental,Psíquico,Estado,0,0,20,3
+Danza Espada,Normal,Estado,0,0,20,1
+Maquinación,Siniestro,Estado,0,0,20,4
+Danza Dragón,Dragón,Estado,0,0,20,3
+Agilidad,Psíquico,Estado,0,0,30,1
+Reflejo,Psíquico,Estado,0,0,20,1
+Pantalla Luz,Psíquico,Estado,0,0,30,1
+Doble Equipo,Normal,Estado,0,0,15,1
+Rizo Defensa,Normal,Estado,0,0,40,1
+Barrera,Psíquico,Estado,0,0,20,1
+Armadura Ácida,Veneno,Estado,0,0,20,1
+Amnesia,Psíquico,Estado,0,0,20,1
+Defensa Férrea,Acero,Estado,0,0,15,3
+Respiro,Volador,Estado,0,0,10,4
+Recuperación,Normal,Estado,0,0,10,1
+Pulso Cura,Psíquico,Estado,0,0,10,5
+Deseo,Normal,Estado,0,0,10,2
+Campana Cura,Normal,Estado,0,0,5,2
+Sol Matinal,Normal,Estado,0,0,5,2
+Luz Lunar,Hada,Estado,0,0,5,2
+Síntesis,Planta,Estado,0,0,5,2
+Recogehojas,Planta,Estado,0,0,5,5
+Bilis,Normal,Estado,0,0,10,5
+Esfera de Aura,Lucha,Especial,80,0,20,4
+Golpe Bajo,Siniestro,Físico,70,100,5,4
+Fuerza G,Tierra,Físico,90,100,10,4
+A bocajarro,Lucha,Físico,120,100,5,4
+Voltio Cruel,Eléctrico,Físico,90,100,15,4
+Ida y Vuelta,Bicho,Físico,70,100,20,4
+Fuerza Luna,Hada,Especial,95,100,15,6
+Brillo Mágico,Hada,Especial,80,100,10,6
+Vendaval,Volador,Especial,110,70,10,6
+Lanzallamas,Fuego,Especial,90,100,15,1
+Rayos,Eléctrico,Especial,90,100,15,1
+Rayo Hielo,Hielo,Especial,90,100,10,1
+Surf,Agua,Especial,90,100,15,1
+Terremoto,Tierra,Físico,100,100,10,1
+Psíquico,Psíquico,Especial,90,100,10,1
+Danza Dragón,Dragón,Estado,0,0,20,3
+Garra Dragón,Dragón,Físico,80,100,15,3
+Puño Hielo,Hielo,Físico,75,100,15,1
+Puño Fuego,Fuego,Físico,75,100,15,1
+Puño Trueno,Eléctrico,Físico,75,100,15,1
+Roca Afilada,Roca,Físico,100,80,5,4
+Trampa Rocas,Roca,Estado,0,0,20,4
+Puya Nociva,Veneno,Físico,80,100,20,4
+Carga Tóxica,Veneno,Especial,65,100,10,5
+Bola Sombra,Fantasma,Especial,80,100,15,2
+Garra Umbría,Fantasma,Físico,70,100,15,4
+Cabeza de Hierro,Acero,Físico,80,100,15,4
+Giro Bola,Acero,Físico,0,100,5,4
+Ala de Acero,Acero,Físico,70,90,25,2
+Resplandor,Fuego,Especial,95,100,10,1
+Bomba Lodo,Veneno,Especial,90,100,10,4
+Vozarrón,Normal,Especial,90,100,10,3
+Pulso Dragón,Dragón,Especial,85,100,10,4
+Pulso Umbrío,Siniestro,Especial,80,100,15,4
+Energibola,Planta,Especial,90,100,10,4
+Foco Resplandor,Acero,Especial,80,100,10,4
+Psico-corte,Psíquico,Físico,70,100,20,4
+Cabezazo Zen,Psíquico,Físico,80,90,15,4
+Psicocarga,Psíquico,Especial,80,100,10,5
+Rayo Fusión,Eléctrico,Especial,100,100,5,5
+Rayo Gélido,Hielo,Especial,130,90,5,5
+Llama Azul,Fuego,Especial,130,90,5,5
+Pájaro Osado,Volador,Físico,120,100,15,4
+Acrobático,Volador,Físico,55,100,15,5
+Viento Afín,Volador,Estado,0,0,15,4
+Demolición,Lucha,Físico,75,100,15,3
+Espada Santa,Lucha,Físico,90,100,20,5
+Última Baza,Normal,Físico,140,100,5,4
+Giga Impacto,Normal,Físico,150,90,5,4
+Hiperrayo,Normal,Especial,150,90,5,1
+Ida y Vuelta,Bicho,Físico,70,100,20,4
+Tijera X,Bicho,Físico,80,100,15,4
+Zumbido,Bicho,Especial,90,100,10,4
+Picadura,Bicho,Físico,60,100,20,5
+Venenochoque,Veneno,Especial,65,100,10,5
+Niebla Clara,Veneno,Especial,65,0,15,5
+Paz Mental,Psíquico,Estado,0,0,20,3
+Danza Espada,Normal,Estado,0,0,20,1
+Maquinación,Siniestro,Estado,0,0,20,4
+Agilidad,Psíquico,Estado,0,0,30,1
+Armadura Ácida,Veneno,Estado,0,0,20,1
+Rizo Defensa,Normal,Estado,0,0,40,1
+Barrera,Psíquico,Estado,0,0,20,1
+Reflejo,Psíquico,Estado,0,0,20,1
+Pantalla Luz,Psíquico,Estado,0,0,30,1
+Roca Caída,Roca,Especial,50,90,15,8
+Vasto Impacto,Normal,Físico,80,100,10,8
+Fuerza Equina,Tierra,Físico,95,100,10,8
+Planta Férrea,Planta,Físico,80,100,10,8
+Rayo Meteoro,Roca,Especial,120,90,10,8
+Maxibarredora,Normal,Especial,100,100,10,8
+Maxiembestida,Normal,Físico,100,100,10,8
+Maxichorro,Agua,Especial,100,100,10,8
+Maxihelada,Hielo,Especial,100,100,10,8
+Maxilito,Roca,Especial,100,100,10,8
+Maxitormenta,Eléctrico,Especial,100,100,10,8
+Maxitemblor,Tierra,Especial,100,100,10,8
+Maxiflora,Planta,E发电,100,100,10,8
+Maxiataque,Normal,Físico,100,100,10,8
+Maxipuño,Lucha,Físico,100,100,10,8
+Maxiestela,Psíquico,Especial,100,100,10,8
+Maxiácido,Veneno,Especial,100,100,10,8
+Maxicanto,Hada,Especial,100,100,10,8
+Maxiespectro,Fantasma,Especial,100,100,10,8
+Maxionda,Dragón,Especial,100,100,10,8
+Maxiinsecto,Bicho,Especial,100,100,10,8
+Maxiciclón,Volador,Especial,100,100,10,8
+Maxiardor,Fuego,Especial,100,100,10,8
+Maxiataque,Normal,Físico,100,100,10,8 
